@@ -11,9 +11,8 @@ var S=[
 ];
 // Team: [name, role, description, optional photo path e.g. "assets/images/team/name.jpg"]
 var TEAM=[
-["Name to add","President","Sets the direction of Donlabs, leads the groups and is the main contact for clients and partners."],
-["Name to add","Vice president","Runs day-to-day work across the groups, schedules projects and makes sure each one is delivered."],
-["Name to add","Co-founder","Helped start Donlabs and shapes new services and the work behind them."]
+["Donovance Otieno Alonge","President","Sets the direction of Donlabs, leads the groups and is the main contact for clients and partners.","assets/images/team/president.jpg"],
+
 ];
 var SHORT="Creative and technical work under one roof.";
 var timer;
