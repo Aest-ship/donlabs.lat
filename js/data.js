@@ -13,6 +13,7 @@ var S=[
 var TEAM=[
 ["Donovance Otieno Alonge","President","Sets the direction of Donlabs, leads the groups and is the main contact for clients and partners.","assets/images/team/president.jpg"],
 
+
 ];
 var SHORT="Creative and technical work under one roof.";
 var timer;
